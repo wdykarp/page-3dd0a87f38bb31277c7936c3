@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://x4s5vr.cn/sitemap.xml
